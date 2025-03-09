@@ -1,0 +1,11 @@
+Transaction ID,Tanggal Transaksi,Nama Produk,Kategori,Jumlah,Harga (Rupiah),Total Harga (Rupiah)
+101,01-01-2024,Laptop,Elektronik,1,"15,000,000"," 15,000,000 "
+102,02-01-2024,Smartphone,Elektronik,2,"12,000,000"," 24,000,000 "
+103,03-01-2024,Headset,Aksesori,," 750,000 ",
+104,03-01-2024,Headset,Aksesori,1," 750,000 "," 750,000 "
+105,07-01-2024,Mouse,Aksesori,3,,
+106,04-01-2024,Keyboard,Aksesori,2," 1,500,000 "," 3,000,000 "
+107,05-01-2024,Monitor,Elektronik,1," 45,000,000 "," 45,000,000 "
+107,05-01-2024,Monitor,Elektronik,1," 45,000,000 "," 45,000,000 "
+108,06-01-2024,Printer,Elektronik,," 3,000,000 ",
+109,07-01-2024,Tablet,Elektronik,1,"-7,500,000 ","-7,500,000 "
